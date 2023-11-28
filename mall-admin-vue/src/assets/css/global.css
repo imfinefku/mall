@@ -1,0 +1,82 @@
+html,
+body,
+#app {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.el-breadcrumb {
+    margin-bottom: 15px;
+    font-size: 12px;
+}
+
+.el-card {
+    box-shadow: 0 1px 1px rgba(241, 235, 235, 0.15) !important;
+    background-color: #FFFFFF;
+    border: 1px solid  #FFFFFF;
+}
+
+.el-table {
+    background-color:  #FFFFFF;
+}
+
+.el-table td, .el-table th.is-leaf {
+    border-bottom: 1px solid  #FFFFFF;
+}
+
+.el-table--border th, .el-table__fixed-right-patch {
+    border-bottom: 1px solid  #FFFFFF;
+}
+.el-table td, .el-table th.is-leaf {
+    border-bottom: 1px solid #FFFFFF;
+}
+.el-tree {
+    position: relative;
+    cursor: default;
+    background:  #FFFFFF;
+    color: #979fba;
+}
+
+.el-breadcrumb__inner a, .el-breadcrumb__inner.is-link {
+    font-weight: 700;
+    text-decoration: none;
+    transition: color .2s cubic-bezier(.645,.045,.355,1);
+    color: #eff1f6;
+}
+
+.el-dialog__header {
+    padding: 20px 20px 10px;
+    background: #FFFFFF;
+    font-size: 20px;
+    font-weight: bold;
+
+}
+.el-dialog__title {
+    line-height: 24px;
+    font-size: 18px;
+    color: #EEE;
+}
+.baidu {
+    overflow: hidden;
+    margin: 100px auto;
+    background-color: #fff;
+    width: 410px;
+    padding-top: 3px;
+}
+
+.baidu li {
+    float: left;
+    margin: 0 1px;
+    cursor: pointer;
+}
+
+.baidu img {
+    width: 100px;
+}
+li {
+    list-style: none;
+}
+el-login_conn {
+    background-image: url(https://ts4.cn.mm.bing.net/th?id=OIP-C.WgiGq8rMSaag6d3Z7kbg3QHaEo&w=316&h=197&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2);
+}
